@@ -1,0 +1,59 @@
+<faqtitle>Spanish Download eShop FAQ</faqtitle>
+
+
+
+<heading>
+<name>Questions About Buying a Download</name>
+
+=How soon will I get my download?=Fast! Once you pay via Paypal, you'll be taken to a download page instantly.  If you pay via Google Checkout, the system sends you an automated email with your download link usually within minutes. If there is any problem along the way or you don't receive your download link, check your spam folder FIRST, then email us and we'll send you a new link to whatever email address you specify.*
+
+
+=Can I buy a download without being a Paypal member?=Si, no problema! You have 2 options: either pay with a credit card on Paypal's site without becoming a member, or buy through Google Checkout, which doesn't require any kind of ongoing membership to use. 
+ 
+
+=How much time will I have to download my file?=You will have whatever time you need to download the file - the default setting is 5 days, but you can email us if you've lost your file and need access at a later date.*
+
+=Help! The download link is not working?=Troubleshooting for people who have trouble with download links, or can't find their download link email even though it was issued by our system:
+1 - If you have AOL, make sure to check your spam folder. AOL can be very aggressive about spam sometimes, and put regular emails in the spam folder.
+2- Your email application may have been breaking the download link. If upon clicking, you get an ERROR page in your browser, you will need to manually copy and paste into your browser. It is vital that the ENTIRE link be copied.*
+
+
+=Do I have to have an ongoing internet connection to use my download?=No! All downloads are meant to be downloaded completely, and then used on your own computer - with no ongoing access to the internet required once you've completed your download.*
+</heading>
+
+
+
+<heading>
+<name>Refunds and Technical Support</name>
+
+=Do you offer refunds?=Yes - but only for technical problems with the download itself. Buying a download you are paying for the bandwidth as much as anything (some files are nearly 250 MB) - so we don't offer an unconditional refund. Read the reviews, listen to the samples, and email us BEFORE you buy! We're happy to answer any questions. Most the our products are ones we've authored, although we're branching out soon to include others.* 
+
+
+=Can I get technical support?=Of course! We primarily offer email tech support only for downloads. While we try to provide tech support for all of our products, keep in mind that downloads do require some knowledge on the part of the user! Understanding the basics of how to download a file, saving it to your harddrive, and unzipping the archive with Windows XP, Winzip, or Mac OS X is pretty basic, but we've certainly received frantic tech support requests from people who don't know how do to these basic things. If you're not sure you understand how to download and open a zip file, please try to find out before buying your download - it will save us both some time and effort! If you do need help, first check out our help videos, found online at 
+http://www.musicalspanish.com/download/_help_video*
+</heading>
+
+<heading>
+<name>iPod and mp3 Players</name>
+
+=Can I use your download on my mp3 player or iPod?=Any of our programs that have audio mp3s are most certainly compatible with your iPod or mp3 player! We have help videos for transferring your songs or audio instruction tracks to your iPod in our video help section online, found at 
+http://www.musicalspanish.com/download/_help_video* 
+</heading>
+
+<heading>
+<name>Affiliate Program</name>
+
+=Do you have an affilate program?=Yes! You can get 30 percent of the price of any of our downloads by offering them on your site. We use a 3rd party site called e-Junkie to process all downloads, so you can trust that all sales will be recorded by this website, and you'll be credited with any sales that come from your website. To sign up, you just have to create an account at e-Junkie, and you can offer this flash download shop directly on your website. 
+Please email us at stacey@spanish.bz to sign up and receive the necessary files.* 
+</heading>
+
+
+
+
+
+
+
+
+ 
+
+

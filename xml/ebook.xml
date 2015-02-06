@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ebook path="ebook1/" >
+	<page file="page1.swf" >
+<![CDATA[Introduction]]>
+	</page>
+	
+	<page file="page2.swf" >
+		<![CDATA[Present Tense, AR Verbs]]>
+	</page>
+	
+	<page file="page3.swf" >
+	</page>
+	
+	<page file="page4.swf" >
+		<![CDATA[Present Tense, ER Verbs]]>
+	</page>
+	
+	<page file="page5.swf" >
+		<![CDATA[Present Tense, IR Verbs]]>
+	</page>
+	<page file="page6.swf" >
+		<![CDATA[Preterite Tense, AR Verbs]]>
+	</page>
+	
+	<page file="page7.swf" >
+	</page>
+	
+	<page file="page8.swf" >
+		<![CDATA[Preterite Tense, ER Verbs]]>
+	</page>
+	
+	<page file="page9.swf" >
+		<![CDATA[Preterite Tense, IR Verbs]]>
+	</page>
+	
+	<page file="page10.swf" >
+		<![CDATA[Imperfect Tense, AR Verbs]]>
+	</page>
+	
+	<page file="page11.swf" >
+	</page>
+	
+	<page file="page12.swf" >
+		<![CDATA[Imperfect Tense, ER Verbs]]>
+	</page>
+	
+	<page file="page13.swf" >
+		<![CDATA[Imperfect Tense, IR Verbs]]>
+	</page>
+	
+	<page file="page14.swf" >
+		<![CDATA[Future Tense, AR Verbs]]>
+	</page>
+	
+	<page file="page15.swf" >
+	</page>
+	
+	<page file="page16.swf" >
+		<![CDATA[Future Tense, ER Verbs]]>
+	</page>
+
+	
+	<page file="page17.swf" >
+		<![CDATA[Future Tense, IR Verbs]]>
+	</page>
+	
+	<page file="page18.swf" >
+		<![CDATA[Present Participles]]>
+	</page>
+	
+	<page file="page19.swf" >
+	</page>
+	
+	<page file="page20.swf" >
+		<![CDATA[Past Participles]]>
+	</page>
+	
+	<page file="page21.swf" >
+	</page>
+	
+	<page file="page22.swf" >
+		<![CDATA[Activities]]>
+	</page>
+	
+	<page file="page23.swf" >
+	</page>
+	
+	<page file="product_menu.swf" >
+	
+		<![CDATA[Spanish Learning Downloads]]>
+	</page>
+	</page>
+	
+
+	
+</ebook>
